@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClassAssistant</string>
+    <string name="title_activity_syllabus">Syllabus</string>
+    <string name="title_activity_list_cell">ListCell</string>
+</resources>
